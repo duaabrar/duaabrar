@@ -1,8 +1,10 @@
-# Hi, I'm @duaabrar 👋
+# Hi, I'm Dua Zaineb 👋
 
 **Full-stack & mobile developer** building with Flutter, Next.js, React and Node.js.
 
 I like turning designs into working products — from Figma to pixel-accurate React/Tailwind UIs, and from an idea to a full Flutter + Firebase app.
+
+🌐 **Portfolio:** [port-folio-topaz-eight-63.vercel.app](https://port-folio-topaz-eight-63.vercel.app)
 
 ## 🛠️ Tech stack
 
