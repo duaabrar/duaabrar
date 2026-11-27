@@ -17,10 +17,10 @@ I like turning designs into working products — from Figma to pixel-accurate Re
 
 | Project | What it is | Stack | Live |
 |---|---|---|---|
-| [**HealSphere**](https://github.com/duaabrar/My_FinalYear_project) | Final-year project: healthcare app with doctor booking, medicine ordering, lab tests, AI health chatbot and an admin dashboard | Flutter, Firebase | — |
-| [**Hero Image Studio**](https://github.com/duaabrar/Hero_Page) | Dashboard for generating hero images from prompts, colors and emotions, with auth pages | Next.js, TypeScript, Redux Toolkit | [Demo](https://hero-page-indol.vercel.app) |
-| [**Business Reviews Site**](https://github.com/duaabrar/Next.js-Project) | Multi-page review platform: business listings, blog, write-a-review, FAQ | Next.js, React, Tailwind | [Demo](https://next-js-project-sigma-dusky.vercel.app) |
-| [**Quantum Finance Landing Page**](https://github.com/duaabrar/react-tailwind-FIGMA) | Figma design converted into a responsive React landing page | React, Vite, Tailwind | [Demo](https://quantum-assets-fawn.vercel.app) |
-| [**Contacts CRUD**](https://github.com/duaabrar/CRUD) | Full create/read/update/delete contacts app | Express, MongoDB, EJS | [Demo](https://crud-ruby-six-85.vercel.app) |
-| [**JWT Auth API**](https://github.com/duaabrar/jwt) | Register/login API with hashed passwords and JWT tokens | Node.js, Express, MongoDB | — |
-| [**Portfolio**](https://github.com/duaabrar/PortFolio) | My personal portfolio website | HTML, CSS, JavaScript | [Demo](https://port-folio-topaz-eight-63.vercel.app) |
+| [**HealSphere**](https://github.com/duaabrar/healsphere-app) | Final-year project: healthcare app with doctor booking, medicine ordering, lab tests, AI health chatbot and an admin dashboard | Flutter, Firebase | — |
+| [**Hero Image Studio**](https://github.com/duaabrar/hero-image-studio) | Dashboard for generating hero images from prompts, colors and emotions, with auth pages | Next.js, TypeScript, Redux Toolkit | [Demo](https://hero-page-indol.vercel.app) |
+| [**Business Reviews Site**](https://github.com/duaabrar/business-reviews-nextjs) | Multi-page review platform: business listings, blog, write-a-review, FAQ | Next.js, React, Tailwind | [Demo](https://next-js-project-sigma-dusky.vercel.app) |
+| [**Quantum Finance Landing Page**](https://github.com/duaabrar/quantum-finance-landing) | Figma design converted into a responsive React landing page | React, Vite, Tailwind | [Demo](https://quantum-assets-fawn.vercel.app) |
+| [**Contacts CRUD**](https://github.com/duaabrar/contacts-crud-express) | Full create/read/update/delete contacts app | Express, MongoDB, EJS | [Demo](https://crud-ruby-six-85.vercel.app) |
+| [**JWT Auth API**](https://github.com/duaabrar/jwt-auth-api) | Register/login API with hashed passwords and JWT tokens | Node.js, Express, MongoDB | — |
+| [**Portfolio**](https://github.com/duaabrar/portfolio-website) | My personal portfolio website | HTML, CSS, JavaScript | [Demo](https://port-folio-topaz-eight-63.vercel.app) |
